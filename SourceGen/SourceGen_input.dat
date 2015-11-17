@@ -1,0 +1,6 @@
+0.0381   0.0381			# diaP , diaS 		=> Jet's Diameter - Internal and External (Float)
+0.0004   0.0000   0.0000	# xx0 , yy0 , zz0 	=> Jet's center Position (Float)
+7.5 10				# Ldjet , ndjet		=> Distance Downstream the jet and number of slices in X (Float, Int)
+4 8				# dSy , dSz		=> Y,Z Source Spacing (Int)
+100 200 200			# Nx , Ny , Nz		=> Grid Number of points in X,Y,Z (Int)
+0.0000				# Vflight		=> Velocity flight (Float)

@@ -1,0 +1,8 @@
+0.0381				# Dj	 		=> Jet's Diameter (Float)
+100   200   200			# Nx , Ny , Nz		=> Grid Number of points in X,Y,Z (Int)
+0.0000   0.0000   0.0000	# xx0 , yy0 , zz0	=> Jet's center Position (Float)
+0.01   -3.0   -5.0		# xx1 , yy1 , zz1	=> Mesh's first point in Jet's Diameter (Float)
+10.0   10.0   10.0		# LenX , LenY , LenZ	=> Lenght of the retangular domain in Jet's Diameter (Float)
+1.0   1.0   1.0			# XSF , YSF , ZSF	=> Stretching factor in the X,Y,Z direction (Float)
+0.0020   0.0020   0.0020	# dxsf , dysf , dzsf	=> Fist element size to start the streatching factor (Float)
+0				# Tec2D			=> Flag to generate the 2D grid (Int)
